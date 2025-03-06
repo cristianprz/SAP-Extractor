@@ -1,0 +1,3 @@
+pyrfc
+pyodbc
+pytest
